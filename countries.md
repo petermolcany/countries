@@ -181,6 +181,7 @@
 - [ ] CG Republic of Congo
 - [ ] RW Rwanda
 - [ ] SN Senegal
+- [x] Seychells
 - [ ] SL Sierra Leone
 - [ ] SO Somalia
 - [ ] ZA South Africa
