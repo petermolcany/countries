@@ -70,7 +70,7 @@
 - [ ] PK Pakistan
 - [ ] PS Palestinian Territories
 - [x] PH Philippines
-- [ ] QA Qatar
+- [x] QA Qatar
 - [x] RU Russia
 - [ ] SA Saudi Arabia
 - [ ] KR South Korea
